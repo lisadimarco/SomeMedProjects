@@ -1,0 +1,32 @@
+{
+    "rumori_anomali": {
+        "rantoli": ["liquido o secrezioni bronchiali"],
+        "sfregamenti pleurici": ["pleurite"],
+        "soffi bronchiali": ["broncopolmonite"]
+    },
+    "dolore_toracico": {
+        "pleurico": ["irritazione del cavo pleurico"],
+        "antalgica": ["decubito sul lato affetto"]
+    },
+    "tosse_secca": ["non produttiva, possibile correlazione con irritazione pleurica"],
+    "dispnea": {
+        "lievo": ["compressione polmonare lieve"],
+        "moderata": ["compressione polmonare moderata"],
+        "grave": ["compressione polmonare significativa"]
+    },
+    "esame_obiettivo": {
+        "ispezione": ["riduzione dei movimenti respiratori del lato affetto"],
+        "palpazione": {
+            "ridotto": ["fremito vocale ridotto per presenza di liquido"],
+            "normale": ["normale"]
+        },
+        "percussione": {
+            "ottuso": ["presenza di liquido pleurico"],
+            "normale": ["nessuna anomalia rilevata"]
+        },
+        "auscultazione": {
+            "assente": ["assenza di murmure vescicolare, indicativo di versamento"],
+            "soffio pleurico": ["infiammazione del cavo pleurico"]
+        }
+    }
+}
